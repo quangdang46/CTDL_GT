@@ -1,0 +1,5 @@
+-Thêm vào đầu,cuối,sau một phần tử chỉ định
+-duyệt
+-tìm kiếm
+-xoá đầu,cuối,chỉ định
+-xoá tất cả
